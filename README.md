@@ -15,7 +15,8 @@ Upper stage "Hopper" variant as it's being built;
 Aerospike-Heatshield combo (24 & 12 chamber variants);
 
 First stage (Reusable & Expendable);
-LNG-LOX Engines;
+
+LNG-LOX First stage Engines;
 
 Crew capsule inspired by Rocketlab's concept.
 
