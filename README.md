@@ -10,9 +10,11 @@ STOKE's Reusable upper stage;
 
 Expendable upper stage variant;
 
-Upper stage "Hopper" variant as it's being built;
+Tanker upper stage variant;
 
-Aerospike-Heatshield combo (24 & 12 chamber variants);
+Upper stage "Hopper" variant as it was flown;
+
+Aerospike-Heatshield combo (24 & 12 chamber variants, slanted or straight);
 
 First stage (Reusable & Expendable);
 
