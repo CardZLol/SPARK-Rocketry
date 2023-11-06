@@ -2,7 +2,7 @@
 
 ## Spacecraft Propulsion and Aerospace Recovery Korp.
 
-Small KSP mod that adds parts meant for recreating Stoke Space's fully reusable rocket.
+Small KSP mod that adds parts meant for recreating Stoke Space's NOVA rocket.
 
 Current plans include:
 
@@ -19,6 +19,8 @@ Aerospike-Heatshield combo (24 & 12 chamber variants, slanted or straight);
 First stage (Reusable & Expendable);
 
 LNG-LOX First stage Engines;
+
+Old design variants.
 
 Crew capsule inspired by Rocketlab's concept.
 
